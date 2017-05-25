@@ -1,0 +1,4 @@
+name = My Module
+description = My First Drupal Module
+core = 7.x
+

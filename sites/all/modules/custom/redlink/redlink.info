@@ -1,0 +1,4 @@
+name = The Red Link
+description = A module that provides a delete link on every node.
+core = 7.x
+
